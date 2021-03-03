@@ -1,1 +1,6 @@
+  
+[abstract about mindset](https://enasbatayneh.github.io/reading-notes/growthmindset)
 
+
+[abstract about git](https://enasbatayneh.github.io/reading-notes/Git)
+.

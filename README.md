@@ -4,8 +4,3 @@
 ### to have the ability to face your challenges,
 ### ***The growth mindset allows people to value what they’re doing regardless of the outcomes***
 
-
-| Fixed Mind    | Difference     | Growth Mind |
-| :---         |     :---:      |          ---: |
-| avoide       | challenges     | embrace     |         
-| ignore       | critisism      | learn from  |

@@ -8,4 +8,4 @@
 | Fixed Mind    | Difference     | Growth Mind |
 | :---         |     :---:      |          ---: |
 | avoide       | challenges     | embrace     |         
-| ignore       | critisism      | learn from  |
+| ignore       | critisism      | https://enasbatayneh.github.io/reading-notes/growthmindset  |/

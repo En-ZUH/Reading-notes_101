@@ -1,10 +1,10 @@
 ![image](https://insights.dice.com/wp-content/uploads/2020/07/shutterstock_1062509657.jpg)
  
 
- is used to maked our pages interactive by accessing and modifing the content and markup used in webpage while it is being viewedin the browser, by :
+ is used to marked our pages interactive by accessing and modifing the content and markup used in webpage while it is being viewedin the browser, by :
 ## ***1- Access Content:***
-### allows the user to select any element, attribute, or text from HTMLpages.
- ### You can use JavaScript to select any element, attribute, or text from anHTML page. For example:
+### allows the user to select any element, attribute, or text from HTML pages.
+ ### You can use JavaScript to select any element, attribute, or text from an HTML page. For example:
  * Select the text inside all of the <hl> elements on a page
  * Select any elements that have a class attribute with a value of note
  * Find out what was entered into atext input whose id attribute has a value of emai1
@@ -30,7 +30,7 @@
 * FILTERING DATA 
 
 
-## ***What is  ascript?!***
+## ***What is  a script?!***
 ### A script is a series of instructions that a computer can follow to achieve a goal. WRITING A SCRIPT To write a script:
  #### you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 
@@ -40,10 +40,10 @@
 | Type | Example |
 | --- | ----------- |
 | ASSIGNMENT OPERATORS | c = 'cat';  |
-| COMPARISON OPERATORS  | num = 10 > 5;  |
+| COMPARISON OPERATORS | num = 10 > 5;  |
 |ARITHMETIC OPERATORS | Length = 10+10;|
 | LOGICAL OPERATORS|s= (5 > 3) && (2 < 4);|
-|STRING OPERATORS|greeting= 'Hi 1 + 'Mol ly';|
+|STRING OPERATORS | greeting= 'Hi 1 + 'Mol ly';|
 
 ### FUNCTIONS.. 
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 

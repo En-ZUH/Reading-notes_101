@@ -41,12 +41,20 @@
 
 | Type | Example |
 | --- | ----------- |
+<<<<<<< HEAD:Read04a.md
 | ASSIGNMENT OPERATORS | c = 'cat';|
 | COMPARISON OPERATORS | num = 10 > 5;|
 | ARITHMETIC OPERATORS| Length = 10+10;|
 | LOGICAL OPERATORS|s= (5 > 3) && (2 < 4);|
 |STRING OPERATORS | greeting= 'Hi 1 + 'Mol ly';|
 
+=======
+| ASSIGNMENT OPERATORS | c = 'cat';  |
+| COMPARISON OPERATORS | num = 10 > 5;  |
+|ARITHMETIC OPERATORS | Length = 10+10;|
+| LOGICAL OPERATORS|s= (5 > 3) && (2 < 4);|
+|STRING OPERATORS | greeting= 'Hi 1 + 'Mol ly';|
+>>>>>>> b7cb8d4db1c1c21848e3c0f92c807f7a26c33d8d:Programming with JavaScript.md
 
 ### FUNCTIONS.. 
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 

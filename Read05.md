@@ -15,9 +15,9 @@
 
 | Operator | Description | Example     |
 | :---    |    :----:   |          ---: |
-| &&      | and       | (x < 10 && y > 1) is true  |
-| ||      | or        | 	(x == 5 || y == 5) is false      |
-| !       | not       | 	!(x == y) is true|
+| "&&"      | and       | (x < 10 && y > 1) is true  |
+| "||"      | or        | 	(x == 5 || y == 5) is false  |
+| "! "      | not       | 	!(x == y) is true|
 
 
 # ***LOOPS***
@@ -35,4 +35,3 @@
  * i += 1;
  * console.log(i);
 * } while (i < 5);
-....

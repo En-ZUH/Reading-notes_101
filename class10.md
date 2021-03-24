@@ -27,7 +27,6 @@ pic
 * Execute statement.
 
 ### Understanding scope
-
 In the interpreter,  each execution context has its own variables object. It holds the variables, functions,  and parameters available within it. Each execution context can also access its parent’s variables object.
 p
 

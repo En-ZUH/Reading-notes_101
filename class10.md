@@ -11,7 +11,6 @@ To find the source of an error, it helps to know how scripts are processed.The o
 The JavaScript interpreter uses the concept of execution contexts. There is one global execution context; plus, each function creates a new execution context. They correspond to variable scope.
 
 ### the stack
-
 The JavaScript interpreter processes one line of code at time when a statement need data from anther function,it stacks (or piles) the new function on top of the current task.
 pic
 

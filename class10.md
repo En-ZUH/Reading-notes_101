@@ -17,13 +17,11 @@ pic
 ### Each time a script enters a new execution context, there are two phases of activity
 
 ##### PREPARE
-
 * The new scope is created.
 * Variables, functions, and arguments are created.
 * The value of the this keyword is determined.
 
 ##### EXECUTE
-
 * Now it can assign values to variables.
 * Reference functions and run their code.
 * Execute statement.

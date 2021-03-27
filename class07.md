@@ -1,20 +1,26 @@
-![image](https://cdn.educba.com/academy/wp-content/uploads/2020/01/css-layout.jpg)### What is a layout?!
-#### CSS Grid Layout is a two-dimensional layout system for the web. It lets you lay content out in rows and columns, and has many features that make building complex layouts straightforward. 
-#### CSS treats each HTML element as if it is in its own box. This box will either be a:
-* Block-level elements start on a new line
-   * Examples include: 'h1, p, ul, li'
-* Inline elements flow in between surrounding text
-   * Examples include: 'img, b, i'
+## Tabels
+#### used to represent information in a grid format, that's grid allow us to understand complex data by referencing information on two axes.
 
-### floating element :
-#### The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible.
-#### floating property can have one of the following values:
-   * left: The element floats to the left of its container.
-   * right: The element floats to the right of its container.
-   * none: The element does not float (will be displayed just where it occurs in the text). This is default.
-   * inherit: The element inherits the float value of its parent.
-   
-#### Grids help create professional and flexible designs.
-#### CSS Frameworks provide rules for common tasks.
-#### You can include multiple CSS files in one page.
-![image](https://miro.medium.com/max/841/1*8xM-wxiBuNnhYIG6vFem9Q.png)
+### ***Basic Table Structure:***
+* 'table' element is used to create a table. The contents of the table are written out row by row.
+* 'tr' you indicate the start of each row using the opening 'tr' tag, at the end of the row you use a closing '/tr' tag.
+* 'td': to represent the heading for either a column or a row. 
+##### Each cell of a table is represented using a 'td' element, at the end of each cell you use a closing '/td' tag.
+
+
+* You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
+* For long tables you can split the table into a 'thead', 'tbody', and 'tfoot'.
+
+
+### function object
+*  object is an instance of the class which have all the properties of that class. is any type that implements operator(). This operator is referred to as the call operator or sometimes the application operator.
+*  Function objects provide two main advantages over a straight function call. The first is that a function object can contain state.
+![image](https://miro.medium.com/max/2560/1*AxAm_RRyMUsHvHUglQw2zw.jpeg)
+
+### Method:
+* A method is a function associated with an object, or, put differently, a method is a property of an object that is a function. 
+* Methods are defined the way normal functions are defined, except that they have to be assigned as the property of an object.
+![image](https://365datascience.com/resources/blog/2018-07-image12-min-6.png)
+![image](https://images.slideplayer.com/16/4957656/slides/slide_39.jpg)
+
+

@@ -29,7 +29,6 @@
 * RELOAD PART OF PAGE 
 * FILTERING DATA 
 
-
 ## ***What is  a script?!***
 ### A script is a series of instructions that a computer can follow to achieve a goal. WRITING A SCRIPT To write a script:
 #### you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 

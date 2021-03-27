@@ -13,8 +13,8 @@
 | class09      |  [Forms and Events](https://github.com/EnasBatayneh/reading-notes/blob/main/class09)       |
 | class10   | [JS Debugging](https://github.com/EnasBatayneh/reading-notes/blob/main/class10)        |
 | class11      | [Assorted Topics](https://github.com/EnasBatayneh/reading-notes/blob/main/class11)       |
-| class12   |  [Docs for the HTML <canvas> Element & Chart.js]        |
-| class13      | [Local Storage]       |
-| class14_a   | [CSS Transforms, Transitions, and Animations]        |
-| class14_b      | [What Google Learned About Teams]       |
+| class12   |  Docs for the HTML <canvas> Element & Chart.js       |
+| class13      | Local Storage       |
+| class14_a   | CSS Transforms, Transitions, and Animations       |
+| class14_b      | What Google Learned About Teams       |
 

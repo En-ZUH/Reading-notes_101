@@ -3,6 +3,3 @@
 #### it's a simple markup language used for creating formatted text using a text editor, you control the display of the document; formatting words as bold or italic, adding images, and creating lists.
 the markdown file used in GitHub, should be with (.md) r (.markdown) extension
 
-#### Examples of markdown syntax:
-1. **text**   : for **bold**
-1. ![image](link of the image)   : to add an image
